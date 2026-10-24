@@ -7,6 +7,8 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 .test_tmp/
+.cache/
+logs/
 
 # Local credentials and tool settings
 .env

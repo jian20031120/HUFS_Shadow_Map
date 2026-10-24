@@ -1,0 +1,7 @@
+# Optional data collection tools and development checks.
+-r requirements.txt
+requests==2.34.2
+pyarrow==25.0.1
+rasterio==1.5.2
+pyogrio==0.13.0
+geopandas==1.2.0

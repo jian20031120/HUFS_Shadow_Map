@@ -7,7 +7,4 @@ pyproj==3.8.0
 numpy==2.5.3
 pandas==3.0.6
 scipy==1.18.1
-requests==2.34.2
 python-dotenv==1.2.4
-pyogrio==0.13.0
-geopandas==1.2.0
