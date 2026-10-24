@@ -1,0 +1,1124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-160465726-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2759613,
+            37.3398218
+          ],
+          [
+            127.2757369,
+            37.33981
+          ],
+          [
+            127.2754336,
+            37.3396053
+          ],
+          [
+            127.2751158,
+            37.3393701
+          ],
+          [
+            127.2748119,
+            37.3392794
+          ],
+          [
+            127.2743682,
+            37.3392727
+          ],
+          [
+            127.2737462,
+            37.3392762
+          ],
+          [
+            127.2735392,
+            37.3392781
+          ],
+          [
+            127.2730805,
+            37.3392834
+          ],
+          [
+            127.2717096,
+            37.3391445
+          ],
+          [
+            127.2712856,
+            37.3390947
+          ],
+          [
+            127.2709435,
+            37.3389568
+          ],
+          [
+            127.2703363,
+            37.3384741
+          ],
+          [
+            127.2700704,
+            37.3382534
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "source_way_id": "160465726",
+        "name": "교내 도로 (참고)",
+        "length_m": 579.9543320628843,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "tertiary",
+          "source": "bing 2010"
+        },
+        "osm_version": "8",
+        "osm_timestamp": "2026-01-07T08:45:08Z",
+        "source_url": "https://www.openstreetmap.org/way/160465726",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-160465726-P1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2700704,
+            37.3382534
+          ],
+          [
+            127.2693859,
+            37.3376683
+          ],
+          [
+            127.2689292,
+            37.33734
+          ],
+          [
+            127.2683414,
+            37.337091
+          ],
+          [
+            127.267297,
+            37.3369312
+          ],
+          [
+            127.2662647,
+            37.3367687
+          ],
+          [
+            127.2647448,
+            37.3365472
+          ],
+          [
+            127.2624706,
+            37.3362169
+          ],
+          [
+            127.2623105,
+            37.3361854
+          ],
+          [
+            127.2621628,
+            37.3361468
+          ],
+          [
+            127.2620091,
+            37.3360992
+          ],
+          [
+            127.2618853,
+            37.3360582
+          ],
+          [
+            127.2605677,
+            37.3355513
+          ],
+          [
+            127.2603901,
+            37.3354928
+          ],
+          [
+            127.2602506,
+            37.3354542
+          ],
+          [
+            127.2600886,
+            37.3354161
+          ],
+          [
+            127.2599557,
+            37.3353986
+          ],
+          [
+            127.2597947,
+            37.3353834
+          ],
+          [
+            127.2596177,
+            37.3353796
+          ],
+          [
+            127.2594111,
+            37.3353839
+          ],
+          [
+            127.2557332,
+            37.3355947
+          ],
+          [
+            127.25571832240183,
+            37.33559498189133
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "source_way_id": "160465726",
+        "name": "교내 도로 (참고)",
+        "length_m": 1349.3248249175856,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "tertiary",
+          "source": "bing 2010"
+        },
+        "osm_version": "8",
+        "osm_timestamp": "2026-01-07T08:45:08Z",
+        "source_url": "https://www.openstreetmap.org/way/160465726",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1093722968-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2600886,
+            37.3354161
+          ],
+          [
+            127.2604035,
+            37.3352944
+          ],
+          [
+            127.2605792,
+            37.335221
+          ],
+          [
+            127.2607332,
+            37.3351426
+          ],
+          [
+            127.2611122,
+            37.3349368
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "source_way_id": "1093722968",
+        "name": "교내 도로 (참고)",
+        "length_m": 105.36686630220561,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2022-09-12T05:43:23Z",
+        "source_url": "https://www.openstreetmap.org/way/1093722968",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1093722971-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2621628,
+            37.3361468
+          ],
+          [
+            127.2621844,
+            37.3351891
+          ],
+          [
+            127.2622244,
+            37.3341308
+          ],
+          [
+            127.2622368,
+            37.3336947
+          ],
+          [
+            127.2622368,
+            37.3336556
+          ],
+          [
+            127.2622183,
+            37.3336237
+          ],
+          [
+            127.2621936,
+            37.3336017
+          ],
+          [
+            127.2621566,
+            37.3335845
+          ],
+          [
+            127.2621104,
+            37.3335772
+          ],
+          [
+            127.2617777,
+            37.33356
+          ],
+          [
+            127.2617222,
+            37.3335551
+          ],
+          [
+            127.2616852,
+            37.3335331
+          ],
+          [
+            127.2616175,
+            37.3334816
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "source_way_id": "1093722971",
+        "name": "교내 도로 (참고)",
+        "length_m": 338.5475480124143,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2022-09-12T05:43:23Z",
+        "source_url": "https://www.openstreetmap.org/way/1093722971",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1093722973-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2662647,
+            37.3367687
+          ],
+          [
+            127.2662022,
+            37.3370437
+          ],
+          [
+            127.2660719,
+            37.3376648
+          ],
+          [
+            127.2660375,
+            37.3377884
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "source_way_id": "1093722973",
+        "name": "교내 도로 (참고)",
+        "length_m": 114.95129760243142,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "osm_version": "2",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1093722973",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1093722975-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2660719,
+            37.3376648
+          ],
+          [
+            127.2664028,
+            37.337724
+          ],
+          [
+            127.2664656,
+            37.3377353
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1093722975",
+        "name": "주차장 통로 (참고)",
+        "length_m": 35.751016336745785,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "3",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1093722975",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1093722977-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2672492,
+            37.337116
+          ],
+          [
+            127.2671436,
+            37.337526
+          ],
+          [
+            127.2670666,
+            37.3378245
+          ],
+          [
+            127.2670608,
+            37.3378796
+          ],
+          [
+            127.2672067,
+            37.3379037
+          ],
+          [
+            127.2674621,
+            37.3379054
+          ],
+          [
+            127.2679964,
+            37.338006
+          ],
+          [
+            127.2684922,
+            37.3382167
+          ],
+          [
+            127.2686474,
+            37.3382559
+          ],
+          [
+            127.26882,
+            37.3382147
+          ],
+          [
+            127.2688939,
+            37.3381246
+          ],
+          [
+            127.2690517,
+            37.3379619
+          ],
+          [
+            127.2693859,
+            37.3376683
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "source_way_id": "1093722977",
+        "name": "교내 도로 (참고)",
+        "length_m": 329.8471712390859,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "osm_version": "3",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1093722977",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1233847542-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2664656,
+            37.3377353
+          ],
+          [
+            127.2665627,
+            37.337269
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1233847542",
+        "name": "주차장 통로 (참고)",
+        "length_m": 52.45654900502155,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2023-12-24T16:47:00Z",
+        "source_url": "https://www.openstreetmap.org/way/1233847542",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1233847543-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2664656,
+            37.3377353
+          ],
+          [
+            127.2666876,
+            37.3377744
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1233847543",
+        "name": "주차장 통로 (참고)",
+        "length_m": 20.143556947029705,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2023-12-24T16:47:00Z",
+        "source_url": "https://www.openstreetmap.org/way/1233847543",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1233847543-P1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2666876,
+            37.3377744
+          ],
+          [
+            127.2668088,
+            37.33723
+          ],
+          [
+            127.2669735,
+            37.3372536
+          ],
+          [
+            127.2668459,
+            37.3378014
+          ],
+          [
+            127.2666876,
+            37.3377744
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1233847543",
+        "name": "주차장 통로 (참고)",
+        "length_m": 152.36260809162798,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2023-12-24T16:47:00Z",
+        "source_url": "https://www.openstreetmap.org/way/1233847543",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1422115620-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2668459,
+            37.3378014
+          ],
+          [
+            127.2670666,
+            37.3378245
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1422115620",
+        "name": "주차장 통로 (참고)",
+        "length_m": 19.722782478811027,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-08-13T15:50:45Z",
+        "source_url": "https://www.openstreetmap.org/way/1422115620",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1422115621-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.267297,
+            37.3369312
+          ],
+          [
+            127.2672746,
+            37.3370207
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "source_way_id": "1422115621",
+        "name": "교내 도로 (참고)",
+        "length_m": 10.128355943239875,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-08-13T15:50:45Z",
+        "source_url": "https://www.openstreetmap.org/way/1422115621",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1422115622-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2672746,
+            37.3370207
+          ],
+          [
+            127.2672492,
+            37.337116
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "bridge": "yes",
+        "layer": "1",
+        "source_way_id": "1422115622",
+        "name": "교내 도로 (참고)",
+        "length_m": 10.812441542426997,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "bridge": "yes",
+          "highway": "service",
+          "layer": "1"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-08-13T15:50:45Z",
+        "source_url": "https://www.openstreetmap.org/way/1422115622",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367107-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2647448,
+            37.3365472
+          ],
+          [
+            127.2646749,
+            37.3367376
+          ],
+          [
+            127.2645152,
+            37.3368466
+          ],
+          [
+            127.2644435,
+            37.3369381
+          ],
+          [
+            127.2643329,
+            37.3377087
+          ],
+          [
+            127.26445,
+            37.3378096
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367107",
+        "name": "주차장 통로 (참고)",
+        "length_m": 153.95183174964384,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367107",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367112-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2664028,
+            37.337724
+          ],
+          [
+            127.2662577,
+            37.3383211
+          ],
+          [
+            127.2662461,
+            37.3383688
+          ],
+          [
+            127.2667804,
+            37.3384592
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "source_way_id": "1436367112",
+        "name": "교내 도로 (참고)",
+        "length_m": 121.28265489059334,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367112",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367113-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2667804,
+            37.3384592
+          ],
+          [
+            127.2667737,
+            37.3384844
+          ],
+          [
+            127.2667031,
+            37.3387509
+          ],
+          [
+            127.2655304,
+            37.3385631
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367113",
+        "name": "주차장 통로 (참고)",
+        "length_m": 139.06437054412174,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367113",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367114-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2667737,
+            37.3384844
+          ],
+          [
+            127.2671301,
+            37.3385394
+          ],
+          [
+            127.2672546,
+            37.3386776
+          ],
+          [
+            127.2671344,
+            37.339174
+          ],
+          [
+            127.267036,
+            37.3392581
+          ],
+          [
+            127.2654662,
+            37.3389981
+          ],
+          [
+            127.2655304,
+            37.3385631
+          ],
+          [
+            127.2655637,
+            37.3383517
+          ],
+          [
+            127.2658169,
+            37.338263
+          ],
+          [
+            127.2662577,
+            37.3383211
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367114",
+        "name": "주차장 통로 (참고)",
+        "length_m": 398.32330141033384,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367114",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367116-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2671436,
+            37.337526
+          ],
+          [
+            127.2672809,
+            37.3375514
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367116",
+        "name": "주차장 통로 (참고)",
+        "length_m": 12.487995503705806,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367116",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367117-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2672324,
+            37.337789
+          ],
+          [
+            127.2672809,
+            37.3375514
+          ],
+          [
+            127.2673426,
+            37.3372722
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367117",
+        "name": "주차장 통로 (참고)",
+        "length_m": 58.17677651622866,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367117",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367119-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2737462,
+            37.3392762
+          ],
+          [
+            127.2736583,
+            37.3389353
+          ],
+          [
+            127.2735739,
+            37.3386076
+          ],
+          [
+            127.2733657,
+            37.338652
+          ],
+          [
+            127.2735392,
+            37.3392781
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367119",
+        "name": "주차장 통로 (참고)",
+        "length_m": 166.00398961572438,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367119",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367120-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2736583,
+            37.3389353
+          ],
+          [
+            127.2742887,
+            37.3389408
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367120",
+        "name": "주차장 통로 (참고)",
+        "length_m": 55.859985921459376,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367120",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-ROAD-1436367121-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.2733657,
+            37.338652
+          ],
+          [
+            127.2727144,
+            37.3384681
+          ],
+          [
+            127.2726182,
+            37.3381192
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "source_way_id": "1436367121",
+        "name": "주차장 통로 (참고)",
+        "length_m": 100.85611542783623,
+        "guidance_class": "shared_road_reference",
+        "reference_only": true,
+        "foot_permission": "unknown",
+        "osm_tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "osm_version": "1",
+        "osm_timestamp": "2025-10-08T08:08:12Z",
+        "source_url": "https://www.openstreetmap.org/way/1436367121",
+        "safety_note": "차량 통행 도로의 중심선입니다. 보행 허용·보도·횡단시설·현재 안전성을 확인하지 못했습니다."
+      }
+    }
+  ],
+  "metadata": {
+    "schema_version": 1,
+    "source": "OpenStreetMap contributors",
+    "source_kind": "osm_shared_roads_reference",
+    "source_url": "https://api.openstreetmap.org/api/0.6/map?bbox=127.2555,37.3327,127.2766,37.3406",
+    "source_xml_sha256": "5a7e760ae69f7e5c781c12fbd99ca89cb53af57285c55d86df16ed49a648a4c3",
+    "extracted_at": "2026-10-24T18:14:41.463352+00:00",
+    "crs": "EPSG:4326",
+    "length_crs": "EPSG:32652",
+    "campus_id": "13beb2648268fc69cf733d20662210030bf0bfcc4d85af4e1756a7e8f79a93d7",
+    "license": "ODbL 1.0",
+    "attribution_url": "https://www.openstreetmap.org/copyright",
+    "source_way_count": 20,
+    "clipped_feature_count": 22,
+    "total_length_m": 4325.376372061157,
+    "unique_total_length_m": 4325.376372061158,
+    "explicit_footway_shared_ids": [],
+    "explicit_footway_overlap_length_m": 0.0,
+    "removed_explicit_overlap_length_m": 0.0,
+    "incomplete_source_ways": [],
+    "guidance_class": "shared_road_reference",
+    "reference_only": true,
+    "scope_note": "차량 도로·주차 통로의 지도상 참고 선형입니다. 명시 보행로와 별도이며 보행 가능·안전·연속 경로를 보장하지 않습니다.",
+    "exclusion_note": "명시 보행로와 중복 source way 및 겹치는 선형, access/foot=no/private, 면형 도로 제외."
+  }
+}

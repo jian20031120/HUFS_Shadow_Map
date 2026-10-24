@@ -35,7 +35,7 @@ def save_trees(path,data,campus):
         if os.path.exists(temp):os.unlink(temp)
 
 def load_trees(path,campus):
-    return validate_trees(json.loads(Path(path).read_text()),campus) if Path(path).exists() else {'type':'FeatureCollection','features':[]}
+    return validate_trees(json.loads(Path(path).read_text(encoding='utf-8')),campus) if Path(path).exists() else {'type':'FeatureCollection','features':[]}
 
 def canopy_shadow(data,campus,elevation,azimuth,buildings=()):
     if elevation<3:return GeometryCollection()

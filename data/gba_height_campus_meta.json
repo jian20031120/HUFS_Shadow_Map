@@ -1,0 +1,30 @@
+{
+  "zip_url": "https://dataserv.ub.tum.de/s/m1782307/download?path=%2FHeight%2Fasiaeast&files=e125_n40_e130_n35.zip",
+  "zip_bytes": 84522991612,
+  "zip_etag": "\"c48dfb1d341ee06565d4015fcda00c62\"",
+  "member": "127.2_37.4_127.4_37.2_sr_ss.tif",
+  "member_bytes": 219447642,
+  "member_crc32": "6afb869d",
+  "member_sha256": "fbdcc3a0fa2037a1e458690ed75583c2a5dedfed974f790c43fdbc46fadba094",
+  "downloaded_bytes": 198034437,
+  "retrieved_at": "2026-10-24T17:43:41.645476+00:00",
+  "schema_version": 1,
+  "dataset": "GlobalBuildingAtlas Height",
+  "crs": "EPSG:32652",
+  "resolution_m": 3,
+  "nodata": -1.0,
+  "shape": [
+    325,
+    648
+  ],
+  "campus_id": "13beb2648268fc69cf733d20662210030bf0bfcc4d85af4e1756a7e8f79a93d7",
+  "height_kind": "machine_learning_estimate_not_survey",
+  "imagery_years": [
+    2018,
+    2019
+  ],
+  "paper": "https://doi.org/10.5194/essd-17-6647-2025",
+  "official_release": "https://mediatum.ub.tum.de/1782307",
+  "license": "CC BY-NC 4.0",
+  "npz_sha256": "133da6cbcac5694c4f366899e896fa933673601a2cf2ddc147ce42b49379b88b"
+}

@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "OSM-WAY-470462814-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.25572633770416,
+            37.33571525406077
+          ],
+          [
+            127.2558497,
+            37.335706
+          ],
+          [
+            127.2585888,
+            37.3355149
+          ],
+          [
+            127.2594176,
+            37.3354561
+          ],
+          [
+            127.2595809,
+            37.3354561
+          ],
+          [
+            127.2597781,
+            37.335461
+          ],
+          [
+            127.2599475,
+            37.3354782
+          ],
+          [
+            127.26008,
+            37.3354978
+          ],
+          [
+            127.2602495,
+            37.3355345
+          ],
+          [
+            127.2603943,
+            37.3355811
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "footway",
+        "source_way_id": "470462814",
+        "length_m": 416.76251550192694,
+        "name": "이름 없는 보행로",
+        "source_url": "https://www.openstreetmap.org/way/470462814",
+        "access_basis": "walking_highway",
+        "independent_kind": "footway",
+        "source_tag_basis": [
+          "highway=footway"
+        ],
+        "osm_tags": {
+          "highway": "footway"
+        },
+        "guidance_class": "independent_walkway",
+        "reference_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-WAY-1152823216-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.27036871552136,
+            37.33801170730678
+          ],
+          [
+            127.2702664,
+            37.3380992
+          ],
+          [
+            127.2700704,
+            37.3382534
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "path",
+        "surface": "dirt",
+        "source_way_id": "1152823216",
+        "length_m": 37.66446859560812,
+        "name": "이름 없는 보행로",
+        "source_url": "https://www.openstreetmap.org/way/1152823216",
+        "access_basis": "walking_highway",
+        "independent_kind": "path",
+        "source_tag_basis": [
+          "highway=path"
+        ],
+        "osm_tags": {
+          "highway": "path",
+          "surface": "dirt"
+        },
+        "guidance_class": "independent_walkway",
+        "reference_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OSM-WAY-1152823219-P0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.27285963466372,
+            37.33748341757475
+          ],
+          [
+            127.2727211,
+            37.3375671
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "path",
+        "surface": "dirt",
+        "source_way_id": "1152823219",
+        "length_m": 15.392045747201491,
+        "name": "이름 없는 보행로",
+        "source_url": "https://www.openstreetmap.org/way/1152823219",
+        "access_basis": "walking_highway",
+        "independent_kind": "path",
+        "source_tag_basis": [
+          "highway=path"
+        ],
+        "osm_tags": {
+          "highway": "path",
+          "surface": "dirt"
+        },
+        "guidance_class": "independent_walkway",
+        "reference_only": false
+      }
+    }
+  ],
+  "metadata": {
+    "schema_version": 2,
+    "source": "OpenStreetMap contributors",
+    "source_kind": "osm_explicit_footways",
+    "source_url": "https://api.openstreetmap.org/api/0.6/map?bbox=127.2555,37.3327,127.2766,37.3406",
+    "source_xml_sha256": "5a7e760ae69f7e5c781c12fbd99ca89cb53af57285c55d86df16ed49a648a4c3",
+    "extracted_at": "2026-10-24T18:29:05.487585+00:00",
+    "crs": "EPSG:4326",
+    "length_crs": "EPSG:32652",
+    "campus_id": "13beb2648268fc69cf733d20662210030bf0bfcc4d85af4e1756a7e8f79a93d7",
+    "license": "ODbL 1.0",
+    "attribution_url": "https://www.openstreetmap.org/copyright",
+    "source_way_count": 3,
+    "clipped_feature_count": 3,
+    "total_length_m": 469.8190298447366,
+    "incomplete_source_ways": [],
+    "removed_duplicate_length_m": 0.0,
+    "excluded_foot_access_roads": [
+      {
+        "source_way_id": "1418924175",
+        "highway": "track",
+        "foot": "yes",
+        "length_m": 38.202330528422245,
+        "reason": "보행 허용 태그는 있으나 전용 보행유형 선형이 아니어서 공개 보행로에서 제외. 보행 금지 판정이 아님."
+      }
+    ],
+    "selection_rule": "independent_linear_walking_types_only",
+    "scope_note": "독립 선형으로 매핑된 footway/path/pedestrian/steps만 포함. 캠퍼스 보행로 전체를 포괄하지 않으며 연결 경로나 현재 통행 가능 여부를 보장하지 않습니다.",
+    "excluded_roads_note": "차도·임도·주차 통로 중심선은 foot=yes/designated가 있어도 공개 보행로로 표시하지 않습니다. 이는 보행 금지가 아니라 전용 보행유형만 표시하는 정책입니다. 도로의 sidewalk=yes/left/right를 인도 선형으로 바꾸거나 임의 offset하지 않습니다."
+  }
+}
