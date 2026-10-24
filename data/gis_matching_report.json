@@ -1,0 +1,893 @@
+{
+  "metadata": {
+    "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+    "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+    "retrieved_at": "2026-10-04T07:37:53.473022+00:00",
+    "field_mapping": {
+      "id": "A1",
+      "height_m": "A16",
+      "aboveground_floors": "A26",
+      "name": "A24",
+      "dong_name": "A25",
+      "data_date": "A22"
+    },
+    "source_files": [
+      {
+        "file": "AL_D010_41_20260909.shp",
+        "bytes": 175153044,
+        "mtime_ns": 1788701054000000000
+      },
+      {
+        "file": "AL_D010_41_20260909.dbf",
+        "bytes": 1815000961,
+        "mtime_ns": 1788700988000000000
+      },
+      {
+        "file": "AL_D010_41_20260909.shx",
+        "bytes": 8000100,
+        "mtime_ns": 1788701062000000000
+      },
+      {
+        "file": "AL_D010_41_20260909.prj",
+        "bytes": 553,
+        "mtime_ns": 1788701062000000000
+      },
+      {
+        "file": "AL_D010_41_20260909.fix",
+        "bytes": 12000013,
+        "mtime_ns": 1788701062000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(2).shp",
+        "bytes": 162940624,
+        "mtime_ns": 1788701064000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(2).dbf",
+        "bytes": 1815000961,
+        "mtime_ns": 1788701070000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(2).shx",
+        "bytes": 8000100,
+        "mtime_ns": 1788701142000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(2).prj",
+        "bytes": 553,
+        "mtime_ns": 1788701064000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(2).fix",
+        "bytes": 12000013,
+        "mtime_ns": 1788701144000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(3).shp",
+        "bytes": 47504448,
+        "mtime_ns": 1788701144000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(3).dbf",
+        "bytes": 541112356,
+        "mtime_ns": 1788701146000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(3).shx",
+        "bytes": 2385164,
+        "mtime_ns": 1788701168000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(3).prj",
+        "bytes": 553,
+        "mtime_ns": 1788701168000000000
+      },
+      {
+        "file": "AL_D010_41_20260909(3).fix",
+        "bytes": 3577609,
+        "mtime_ns": 1788701168000000000
+      }
+    ],
+    "inspection": [
+      {
+        "file": "AL_D010_41_20260909.shp",
+        "crs": "EPSG:5186",
+        "encoding": "CP949",
+        "fields": [
+          "A0",
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28"
+        ],
+        "dtypes": [
+          "int32",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "float64",
+          "object",
+          "float64",
+          "float64",
+          "float64",
+          "float64",
+          "float64",
+          "object",
+          "object",
+          "object",
+          "datetime64[D]",
+          "object",
+          "object",
+          "object",
+          "int32",
+          "int32",
+          "object"
+        ],
+        "source_feature_count": 1000000,
+        "bbox_native_crs": [
+          222659.30848150633,
+          525989.9522795615,
+          224499.30537328508,
+          526824.0919591238
+        ],
+        "bbox_count": 83
+      },
+      {
+        "file": "AL_D010_41_20260909(2).shp",
+        "crs": "EPSG:5186",
+        "encoding": "CP949",
+        "fields": [
+          "A0",
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28"
+        ],
+        "dtypes": [
+          "int32",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "float64",
+          "object",
+          "float64",
+          "float64",
+          "float64",
+          "float64",
+          "float64",
+          "object",
+          "object",
+          "object",
+          "datetime64[D]",
+          "object",
+          "object",
+          "object",
+          "int32",
+          "int32",
+          "object"
+        ],
+        "source_feature_count": 1000000,
+        "bbox_native_crs": [
+          222659.30848150633,
+          525989.9522795615,
+          224499.30537328508,
+          526824.0919591238
+        ],
+        "bbox_count": 4
+      },
+      {
+        "file": "AL_D010_41_20260909(3).shp",
+        "crs": "EPSG:5186",
+        "encoding": "CP949",
+        "fields": [
+          "A0",
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28"
+        ],
+        "dtypes": [
+          "int32",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "object",
+          "float64",
+          "object",
+          "float64",
+          "float64",
+          "float64",
+          "float64",
+          "float64",
+          "object",
+          "object",
+          "object",
+          "datetime64[D]",
+          "object",
+          "object",
+          "object",
+          "int32",
+          "int32",
+          "object"
+        ],
+        "source_feature_count": 298133,
+        "bbox_native_crs": [
+          222659.30848150633,
+          525989.9522795615,
+          224499.30537328508,
+          526824.0919591238
+        ],
+        "bbox_count": 0
+      }
+    ],
+    "bbox_wgs84": [
+      127.2557097,
+      37.3329075,
+      127.2764466,
+      37.3403767
+    ],
+    "campus_id": "13beb2648268fc69cf733d20662210030bf0bfcc4d85af4e1756a7e8f79a93d7",
+    "raw_count": 87,
+    "campus_count": 75,
+    "invalid_geometry_count": 0,
+    "duplicates_removed": 0,
+    "notes": "원본 좌표의 bbox 부분집합과 WGS84 가공 자료를 분리. 높이 0은 미등록."
+  },
+  "match_rule": {
+    "iou_min": 0.6,
+    "each_coverage_min": 0.7,
+    "centroid_distance_max_m": 20,
+    "runner_up_iou_margin": 0.2,
+    "nearby_candidate_distance_m": 30
+  },
+  "floor_height_m": 3,
+  "fallback_m": 15,
+  "manual_overrides": "none (audit only; live UI overrides take priority)",
+  "buildings": [
+    {
+      "name": "인문경상관",
+      "osm_id": "468432109",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "0000224259364264493300000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": null,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.7636,
+        "distance_m": 2.34,
+        "candidate_ids": [
+          "0000224259364264493300000000",
+          "0000224258724264375400000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "어문학관",
+      "osm_id": "468432110",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.6849,
+        "distance_m": 5.87,
+        "candidate_ids": [
+          "0000224146004262811500000000",
+          "0000224104774262768100000000",
+          "0000224161374263108500000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "OSM 층수 기반 추정"
+    },
+    {
+      "name": "교양관",
+      "osm_id": "468432113",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "0000224046544264494900000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": null,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.7277,
+        "distance_m": 3.63,
+        "candidate_ids": [
+          "0000224046544264494900000000",
+          "0000224011954264619800000000",
+          "0000224042944264283000000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "공학관",
+      "osm_id": "468432114",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "0000223661894262069500000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": null,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.9136,
+        "distance_m": 1.64,
+        "candidate_ids": [
+          "0000223661894262069500000000",
+          "0000223658904262064600000000",
+          "0000223725264262392900000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "도서관",
+      "osm_id": "468432115",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "1991223723654261149800000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": 4,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.8335,
+        "distance_m": 0.57,
+        "candidate_ids": [
+          "1991223723654261149800000000",
+          "0000223789084261325100000000",
+          "0000223722944260888200000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 12.0,
+      "height_source": "GIS 층수 기반 추정"
+    },
+    {
+      "name": "학생회관",
+      "osm_id": "468432116",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "0000223845194261759900000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": null,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.828,
+        "distance_m": 1.99,
+        "candidate_ids": [
+          "0000223845194261759900000000",
+          "0000223789084261325100000000",
+          "0000223843764261513500000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "후생관",
+      "osm_id": "468432117",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "0000223733684262259100000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": null,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.7694,
+        "distance_m": 2.92,
+        "candidate_ids": [
+          "0000223733684262259100000000",
+          "0000223725264262392900000000",
+          "1994223709884262133300000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "백년관",
+      "osm_id": "468432118",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.0005,
+        "distance_m": 45.86,
+        "candidate_ids": [
+          "0000223438604262199400000000",
+          "2001223509644262527000000000",
+          "2001223497134262647200000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "자연과학관",
+      "osm_id": "468432119",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "1984223515614263506200000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": 5,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.7274,
+        "distance_m": 3.17,
+        "candidate_ids": [
+          "1984223515614263506200000000",
+          "0000223569514263579900000000",
+          "0000223500534263616600000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "GIS 층수 기반 추정"
+    },
+    {
+      "name": "세향관",
+      "osm_id": "468432120",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "0000223587464263472100000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": null,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.8428,
+        "distance_m": 1.21,
+        "candidate_ids": [
+          "0000223587464263472100000000",
+          "0000223592624263201700000000",
+          "0000223569514263579900000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "국제사회교육원",
+      "osm_id": "468432121",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.5053,
+        "distance_m": 25.67,
+        "candidate_ids": [
+          "1999223242654263651100000000",
+          "1999223179864263536000000000",
+          "0000223208254263628500000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "생활관",
+      "osm_id": "468432122",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "1999223132854262759900000000",
+          "name": "기숙사동",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": 7,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909(2).shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.7969,
+        "distance_m": 3.28,
+        "candidate_ids": [
+          "1999223132854262759900000000",
+          "1999223179864263536000000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 21.0,
+      "height_source": "GIS 층수 기반 추정"
+    },
+    {
+      "name": "왕산문화예술관",
+      "osm_id": "468432123",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.0,
+        "distance_m": 66.96,
+        "candidate_ids": [
+          "0000223845194261759900000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "교수동",
+      "osm_id": "468432124",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.0,
+        "distance_m": 81.95,
+        "candidate_ids": [
+          "0000224146004262811500000000",
+          "0000224122034262152900000000",
+          "0000224068914262501900000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "모현학사",
+      "osm_id": "468432125",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "1985223225774257943100000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": 5,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.6996,
+        "distance_m": 3.24,
+        "candidate_ids": [
+          "1985223225774257943100000000",
+          "0000223270814257674100000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "GIS 층수 기반 추정"
+    },
+    {
+      "name": "모현학사",
+      "osm_id": "468432126",
+      "match": {
+        "status": "매칭 확인",
+        "public": {
+          "public_id": "0000223098854257186400000000",
+          "name": "",
+          "dong_name": "",
+          "height_m": null,
+          "aboveground_floors": null,
+          "source": "국토교통부 · VWorld 경기도 GIS건물통합정보 SHP",
+          "source_kind": "local_gis",
+          "source_url": "https://www.ktdb.go.kr/DATA/pblcte/20250805093928585.pdf",
+          "source_file": "AL_D010_41_20260909.shp",
+          "height_field": "A16",
+          "floors_field": "A26",
+          "data_date": "2026-09-06T00:00:00"
+        },
+        "iou": 0.763,
+        "distance_m": 2.27,
+        "candidate_ids": [
+          "0000223098854257186400000000"
+        ],
+        "reason": "윤곽 겹침·양쪽 면적·중심점 거리·양방향 유일성 통과"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "제2 기숙사",
+      "osm_id": "468432127",
+      "match": {
+        "status": "자료 없음",
+        "public": null,
+        "iou": null,
+        "distance_m": null,
+        "candidate_ids": [],
+        "reason": "캠퍼스 공공자료에서 주변 건물 후보 없음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "이름 미등록 건물 1436367101",
+      "osm_id": "1436367101",
+      "match": {
+        "status": "자료 없음",
+        "public": null,
+        "iou": null,
+        "distance_m": null,
+        "candidate_ids": [],
+        "reason": "캠퍼스 공공자료에서 주변 건물 후보 없음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "이름 미등록 건물 1436367102",
+      "osm_id": "1436367102",
+      "match": {
+        "status": "자료 없음",
+        "public": null,
+        "iou": null,
+        "distance_m": null,
+        "candidate_ids": [],
+        "reason": "캠퍼스 공공자료에서 주변 건물 후보 없음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "이름 미등록 건물 1436367103",
+      "osm_id": "1436367103",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.0,
+        "distance_m": 62.48,
+        "candidate_ids": [
+          "1985223225774257943100000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "이름 미등록 건물 1436367104",
+      "osm_id": "1436367104",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.0,
+        "distance_m": 99.68,
+        "candidate_ids": [
+          "1985223225774257943100000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "이름 미등록 건물 1436367110",
+      "osm_id": "1436367110",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.1019,
+        "distance_m": 13.85,
+        "candidate_ids": [
+          "2001223460794262546900000000",
+          "0000223438604262199400000000",
+          "2001223497134262647200000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "이름 미등록 건물 1436367111",
+      "osm_id": "1436367111",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.332,
+        "distance_m": 10.15,
+        "candidate_ids": [
+          "0000223574214262489500000000",
+          "0000223557304262458100000000",
+          "0000223602574262807900000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    },
+    {
+      "name": "이름 미등록 건물 1436367115",
+      "osm_id": "1436367115",
+      "match": {
+        "status": "매칭 불확실",
+        "public": null,
+        "iou": 0.0,
+        "distance_m": 50.14,
+        "candidate_ids": [
+          "0000223587464263472100000000"
+        ],
+        "reason": "겹침·거리·유일성 기준을 모두 충족하지 않음"
+      },
+      "applied_height_m": 15.0,
+      "height_source": "미등록 · 가정 높이"
+    }
+  ]
+}

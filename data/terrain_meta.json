@@ -1,0 +1,8 @@
+{
+  "source": "https://api.opentopodata.org/v1/aster30m",
+  "dataset": "ASTER GDEM v3",
+  "nominal_resolution_m": 30,
+  "sample_spacing_m": 60,
+  "retrieved_at": "2026-09-28T08:51:16.270299+00:00",
+  "note": "거친 지형 근사. 수목·건물 표면 오차 및 관측 시기 차이 가능."
+}

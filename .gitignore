@@ -1,0 +1,42 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local credentials and tool settings
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.aws/
+.codex/
+.agents/
+*.pem
+*.key
+*.p12
+*.pfx
+.ssh/
+
+# Local editor settings, logs, and historical working copies
+.vscode/
+.idea/
+*.log
+*.bak
+*.backup
+/backups/
+/app.before_*.py
+/app.manual_backup.py
+/tmap_view.before_*.py
+
+# macOS metadata
+.DS_Store
+._*
+
+# Large original datasets; keep the campus subsets and matching results
+/data/building_register/mart_djy_03.txt
+/data/building_master/
+/data/public_buildings
